@@ -102,5 +102,15 @@ python advanced_api.py
   **strong gradient boosting model**, which satisfies the "advanced"
   requirement without relying on deep learning libraries.
 "# Predict-Candidate-Fit-Score"
-## Sample example to better understaning
+## Sample example to better understanding
+Advanced Candidate Fit Score - Demo
+
+Paste candidate resume text:
+> "Python developer with 2+ years experience in Django, REST APIs and PostgreSQL. Worked on backend services and writing unit tests."
+
+Paste job description text:
+> "Hiring a backend Python developer responsible for building REST APIs, integrating databases and writing clean, tested code."
+## Sample example output
+<img width="1360" height="323" alt="image" src="https://github.com/user-attachments/assets/e8dc2f1a-9d36-40a7-a2e1-125a3d853445" />
+
 
