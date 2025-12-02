@@ -1,4 +1,4 @@
-# Predict Candidate Fit Score – Advanced ML Solution (No Deep Learning)
+# Predict Candidate Fit Score – Advanced ML Solution.
 
 This project implements an **advanced machine learning pipeline** that predicts
 how well a candidate's resume fits a job description. The model outputs a
