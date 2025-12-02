@@ -101,4 +101,6 @@ python advanced_api.py
 - At the same time it uses a **non‑trivial feature set** and a
   **strong gradient boosting model**, which satisfies the "advanced"
   requirement without relying on deep learning libraries.
-"# Predict-Candidate-Fit-Score" 
+"# Predict-Candidate-Fit-Score"
+## Sample example to better understaning
+
